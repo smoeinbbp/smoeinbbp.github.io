@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page
 
 My Social Network Accounts:
-- [twitter](https://twitter.com/smoeinbbp)
-- [linkedin](https://linkedin.com/smoeinbbp)
-- [facebook](https://facebook.com/smoeinbbp)
+- [Twitter](https://twitter.com/smoeinbbp)
+- [Linkedin](https://linkedin.com/in/smoeinbbp)
+- [Facebook](https://facebook.com/smoeinbbp)
